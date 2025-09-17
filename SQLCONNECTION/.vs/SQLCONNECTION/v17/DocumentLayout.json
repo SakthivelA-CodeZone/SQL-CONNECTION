@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|c:\\users\\hp\\desktop\\c#\u0026.net\\sqlconnection\\sqlconnection\\dataset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|solutionrelative:sqlconnection\\dataset.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|c:\\users\\hp\\desktop\\c#\u0026.net\\sqlconnection\\sqlconnection\\dataset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|solutionrelative:sqlconnection\\dataset.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|c:\\users\\hp\\desktop\\c#\u0026.net\\sqlconnection\\sqlconnection\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00D5DB99-9E40-4607-A418-9224DEC9B64E}|SQLCONNECTION\\SQLCONNECTION.csproj|solutionrelative:sqlconnection\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\App.xaml",
+              "RelativeDocumentMoniker": "SQLCONNECTION\\App.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\App.xaml",
+              "RelativeToolTip": "SQLCONNECTION\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-17T04:18:33.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dataset.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\Dataset.xaml",
+              "RelativeDocumentMoniker": "SQLCONNECTION\\Dataset.xaml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\Dataset.xaml",
+              "RelativeToolTip": "SQLCONNECTION\\Dataset.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-17T04:17:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dataset.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\Dataset.xaml.cs",
+              "RelativeDocumentMoniker": "SQLCONNECTION\\Dataset.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\C#\u0026.NET\\SQLCONNECTION\\SQLCONNECTION\\Dataset.xaml.cs",
+              "RelativeToolTip": "SQLCONNECTION\\Dataset.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:13:31.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
